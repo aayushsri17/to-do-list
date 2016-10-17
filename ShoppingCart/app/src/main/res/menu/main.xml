@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/instr"
+        android:title="Feedback"
+        android:orderInCategory="200"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/follows"
+        android:title="Follow Us"
+        android:orderInCategory="300"
+        android:showAsAction="never">
+       
+    </item>
+   
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:orderInCategory="400"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        android:orderInCategory="500"
+        android:showAsAction="never"
+        />
+
+</menu>
